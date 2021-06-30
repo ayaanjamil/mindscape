@@ -7,6 +7,7 @@ pounce = 1
 
 global buzz
 buzz = 1
+#ayaan is just a variable with my user id
 
 bot = commands.Bot(command_prefix='.')
 
